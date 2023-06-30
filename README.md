@@ -4,7 +4,7 @@ Website of a fictitious association created by a group of three individuals as p
 ## "Instructions" Directory: Statement and files provided by the professor.
 Sujet.pdf : Assignment instructions.
 
-## "Rendered" Directory: Submitted files, including a first part and a second part.
+## "Rendered" Directory: Submitted files.
 
 Sae_Ashok_Flavio_Katia : Website submitted. Grade received: ?/20
 
