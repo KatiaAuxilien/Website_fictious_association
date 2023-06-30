@@ -7,5 +7,7 @@ Sujet.pdf : Assignment instructions.
 ## "Rendered" Directory: Submitted files, including a first part and a second part.
 
 Sae_Ashok_Flavio_Katia : Website submitted. Grade received: ?/20
+
 README.md : Link to the website.
+
 Rapport_php.pdf : Report of the completed work.
