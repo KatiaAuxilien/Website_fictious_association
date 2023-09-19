@@ -6,7 +6,7 @@ Sujet.pdf : Assignment instructions.
 
 ## "Rendered" Directory: Submitted files.
 
-Sae_Ashok_Flavio_Katia : Website submitted. Grade received: ?/20
+Sae_Ashok_Flavio_Katia : Website submitted. Grade received: 18.5/20
 
 README.md : Link to the website.
 
